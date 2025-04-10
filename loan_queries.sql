@@ -1,0 +1,1 @@
+-- Write your SQL queries for Loan Payment Analysis here

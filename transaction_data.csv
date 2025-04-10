@@ -1,0 +1,4 @@
+transaction_id,customer_id,type,amount,is_fraud,balance_before,balance_after,date
+B001,1001,debit,500,0,10000,9500,2023-02-01
+B002,1002,credit,1500,0,12000,13500,2023-02-02
+B003,1001,debit,4500,1,9500,5000,2023-02-02

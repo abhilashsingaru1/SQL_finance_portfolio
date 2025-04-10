@@ -1,0 +1,1 @@
+-- Write your SQL queries for Stock Market Analysis here
